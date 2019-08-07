@@ -1,9 +1,23 @@
+========================
+
 Email Spammer By Spoucky
 
-cd Email-Flood/
+========================
 
-chmod +x install.sh
+Installation
 
-python Email.Flood.py
+$ git clone https://github.com/sp0ucky/Email-Flood.git
+
+$ cd Email-Flood/
+
+$ chmod +x install.sh
+
+========================
+
+Utilisation
+
+$ python Email.Flood.py
+
+========================
 
 Amussez vous bien :)
